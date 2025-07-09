@@ -1,1 +1,1 @@
-print("Welcome to example script! There is no functional...")
+print("Welcome to the example script! There is no functional...")

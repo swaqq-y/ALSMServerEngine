@@ -1,1 +1,1 @@
-print('Second example script!')
+print('The second example script!')
